@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 -I have always wanted to learn to code and jump into the world of tech. This project was the perfect way to immerse myself in the world of coding. Every lesson felt like a new rubiks club I was trying to solve. This project allowed me to learn about the different coding 'languages' and how they are used to create websites. Prior to this I did not understand the difference between HTML, CSS and JavaScript but now I understand what the role of each programming language is. HTML is the foundation of the website. CSS is used to style and present the HTML code and Javascript is used to create dynamic web pages. 
 
 
